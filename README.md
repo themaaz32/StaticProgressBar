@@ -2,6 +2,11 @@
  
 ###### It's just a static Strength bar to show the strength of person ability like, you have to say, if someone completed 70% of the project succesfully that has been assigned to him. ######
 
+#### Image of Result
+
+![Static Progress Bar Images](https://i.ibb.co/MPJBL7m/Screenshot-1575609467.png)
+
+
 #### Code Demonstration
 
 ###### Loader
