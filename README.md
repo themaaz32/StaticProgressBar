@@ -5,7 +5,7 @@
 #### Code Demonstration
 
 ###### Loader
-```
+```dart
 MyLoaderBar(
               loaderForgroundFillColor: Colors.redAccent, 
               value: 30,
@@ -15,7 +15,7 @@ MyLoaderBar(
 ```
 
 ###### Example of Usage
-``` 
+```dart
 class MyHomePage extends StatelessWidget {
 
   @override
@@ -60,7 +60,7 @@ class MyHomePage extends StatelessWidget {
 
 ###### MyLoaderBar Class
 
-```
+```dart
 import 'package:flutter/material.dart';
 
 class MyLoaderBar extends StatefulWidget {
